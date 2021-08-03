@@ -5,6 +5,7 @@ import com.fox.task1.anagram.Anagram;
 import java.util.Scanner;
 
 public class AnagramApp {
+
 	private static final String INPUT_MESSAGE = "Input anagram to reverse:";
 	private static final String OUTPUT_MESSAGE = "Reverse anagram:";
 

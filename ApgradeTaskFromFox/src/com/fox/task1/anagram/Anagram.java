@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Anagram {
+	
 	private static final String DELIMETER = " ";
 
 	public String reverseText(String text) {
